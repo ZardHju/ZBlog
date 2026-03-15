@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_astro/
+
+Sitemap: https://blogs.zardhju.cn/sitemap-index.xml
